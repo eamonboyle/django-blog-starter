@@ -1,0 +1,4 @@
+django
+Pillow==5.2.0
+pytz
+django-taggit

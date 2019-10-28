@@ -1,0 +1,9 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "main"
+version = "0.0.0"
+[tool.poetry.dependencies]
+django = "*"
+pillow = "==5.2.0"
+python = "^3.7"
